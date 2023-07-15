@@ -143,7 +143,11 @@
     display: block;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1024px) {
+    .banner {
+        height: 35vh;
+    }
+
     .formulario {
         width: 70%;
     }
@@ -154,6 +158,11 @@
 
     .formulario__texto {
         margin: 0;
+    }
+
+    .formulario__imagem {
+        display: block;
+        margin: 10em auto;
     }
 
     .container {
