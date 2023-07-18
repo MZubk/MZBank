@@ -54,8 +54,8 @@
 }
 
 .cabecalho-lista__item-botao--azul {
-    background-color: var(--azul-claro);
-    color: var(--branco);
+    background-color: var(--roxo);
+    color: var(--azul-claro);
 }
 
 @media screen and (max-width: 900px) {

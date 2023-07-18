@@ -6,13 +6,17 @@
     --fonte-logo: 'Inter', sans-serif;
     --azul-claro: #6BD1FF;
     --preto: #000000;
-    --branco: #FEFEFE;
+    --branco: #FFFFFF;
+    --fundo: #093854;
+    --roxo: #4a37a0;
+    --verde: #04677e;
 }
 
 body {
     font-family: var(--fonte-principal);
     color: var(--preto);
     font-size: 16px;
+    background-color: var(--fundo);
 }
 
 .cabecalho__logo-link {
